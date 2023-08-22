@@ -9,6 +9,7 @@
 | 本实验属于哪门课程 | 中国海洋大学22夏《移动软件开发》                             |
 | 实验名称           | 实验1：第一个微信小程序                                      |
 | Github仓库地址     | [applet_develop/experiment1 at main · mgy1881/applet_develop (github.com)](https://github.com/mgy1881/applet_develop/tree/main/experiment1) |
+| 博客地址           | http://t.csdn.cn/OGuXR                                       |
 
 
 
