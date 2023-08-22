@@ -29,7 +29,7 @@
 #### 手动创建小程序
 
 在原先创建出的模板基础上，根据文档要求删除对应的文件夹，并在`index.js`和`app.js`文件中利用自动补全完成基础设置:
-<img src="C:\Users\23022\Desktop\lesson\applet_develop\experiment1\删除app.png" alt="删除app" style="zoom:38%;" />
+<img src=".\删除app.png" alt="删除app" style="zoom:38%;" />
 
 #### 视图设计
 
@@ -51,7 +51,7 @@
 
 修改后效果如下:
 
-<img src="C:\Users\23022\Desktop\lesson\applet_develop\experiment1\导航栏设计.png" alt="导航栏设计" style="zoom:75%;" />
+<img src=".\导航栏设计.png" alt="导航栏设计" style="zoom:75%;" />
 
 ###### 页面设计
 
