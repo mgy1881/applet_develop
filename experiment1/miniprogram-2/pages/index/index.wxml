@@ -1,0 +1,5 @@
+<view class='container'>
+  <image src='{{src}}' mode="widthFix"></image>
+  <text>{{name}}</text>
+  <button bindtap="getUserProfile" style="width: 483rpx; height: 99rpx; display: block; box-sizing: border-box; left: 0rpx; top: 0rpx">点击获取头像和昵称</button>
+</view>
