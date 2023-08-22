@@ -4,11 +4,11 @@
 
 <center>姓名：孟广樾  学号：21020007069</center>
 
-| 姓名和学号？         | 孟广樾，21020007069              |
-| -------------------- | -------------------------------- |
-| 本实验属于哪门课程？ | 中国海洋大学22夏《移动软件开发》 |
-| 实验名称？           | 实验1：第一个微信小程序          |
-| Github仓库地址？     | XXXXXXX                          |
+| 姓名和学号？       | 孟广樾，21020007069                                          |
+| ------------------ | ------------------------------------------------------------ |
+| 本实验属于哪门课程 | 中国海洋大学22夏《移动软件开发》                             |
+| 实验名称           | 实验1：第一个微信小程序                                      |
+| Github仓库地址     | [applet_develop/experiment1 at main · mgy1881/applet_develop (github.com)](https://github.com/mgy1881/applet_develop/tree/main/experiment1) |
 
 
 
@@ -24,12 +24,12 @@
 
 打开微信开发这工具后选择新建小程序，选择JS模板创建小程序：
 
-​	<img src="C:\Users\23022\OneDrive\图片\屏幕快照\2023-08-22.png" alt="2023-08-22" style="zoom: 40%;" />
+​	<img src=".\images\2023-08-22.png" alt="2023-08-22" style="zoom: 40%;" />
 
 #### 手动创建小程序
 
 在原先创建出的模板基础上，根据文档要求删除对应的文件夹，并在`index.js`和`app.js`文件中利用自动补全完成基础设置:
-<img src=".\删除app.png" alt="删除app" style="zoom:38%;" />
+<img src=".\images\删除app.png" alt="删除app" style="zoom:38%;" />
 
 #### 视图设计
 
@@ -51,7 +51,7 @@
 
 修改后效果如下:
 
-<img src=".\导航栏设计.png" alt="导航栏设计" style="zoom:75%;" />
+<img src=".\images\导航栏设计.png" alt="导航栏设计" style="zoom:75%;" />
 
 ###### 页面设计
 
@@ -92,11 +92,11 @@ text {   //修改text标签的样式
 
 目录结构如下 ：
 
-<img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_092017.png" alt="Clip_20230822_092017" style="zoom:55%;" />
+<img src=".\images\Clip_20230822_092017.png" alt="Clip_20230822_092017" style="zoom:55%;" />
 
 修改之后显示效果如下:
 
-<img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_092627.png" alt="Clip_20230822_092627" style="zoom:45%;" />
+<img src=".\images\Clip_20230822_092627.png" alt="Clip_20230822_092627" style="zoom:45%;" />
 
 
 
@@ -131,7 +131,7 @@ getUserProfile(e) {
 
 在用户确认授予个人信息后，控制台中即出现获取到的用户信息:
 
-<img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_094435.png" alt="Clip_20230822_094435" style="zoom:55%;" />
+<img src=".\images\Clip_20230822_094435.png" alt="Clip_20230822_094435" style="zoom:55%;" />
 
 ###### 使用动态数据显示头像和昵称
 
@@ -177,14 +177,14 @@ getUserProfile(e) {
 ## 三、程序运行结果
 
 + 程序打开后默认界面：
-  <img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_095455.png" alt="Clip_20230822_095455" style="zoom:60%;" />
+  <img src=".\images\Clip_20230822_095455.png" alt="Clip_20230822_095455" style="zoom:60%;" />
 
 + 点击按钮弹出授权框:
-  <img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_095545.png" alt="Clip_20230822_095545" style="zoom:60%;" />
+  <img src=".\images\Clip_20230822_095545.png" alt="Clip_20230822_095545" style="zoom:60%;" />
 
 + 点击允许之后即可显示头像与昵称：
 
-  <img src="C:\Downloud\Programs\PasteEx\User\Temp\Clip_20230822_095626.png" alt="Clip_20230822_095626" style="zoom:60% ;" align="left" />
+  <img src=".\images\Clip_20230822_095626.png" alt="Clip_20230822_095626" style="zoom:60% ;" align="left" />
 
 
 
