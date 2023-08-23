@@ -1,8 +1,4 @@
 Page({
-
-  /**
-   * 页面的初始数据
-   */
   data: {
     region: ["山东省", "青岛市", "黄岛区"],
     now:{
@@ -23,7 +19,6 @@ Page({
     });
     this.getWeather()
   },
-
   getId: function () {
     let that = this;
     return new Promise((resolve) => {
@@ -36,7 +31,7 @@ Page({
         },
         success: function (res) {
           resolve(res.data.location[0].id);
-          // console.log(res.data)
+          console.log(res.data)
         }
       }) 
       
@@ -54,7 +49,7 @@ Page({
           key: 'f77beb587a27415ba616840b208f0e33'
         },
         success: function (res) {
-          // console.log(res.data);
+          console.log(res.data);
           that.setData({
             now: res.data.now
           })
