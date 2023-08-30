@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/game/game"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#E64340",
+    "navigationBarTitleText": "拼图游戏"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="title" >提示图</view>
+  <image src="{{url}}" />
+  <canvas canvas-id="myCanvas" bindtouchstart = 'touchBox'> </canvas>  
+  <button type="warn" bindtap="restartGame">重新开始</button>
+</view>
